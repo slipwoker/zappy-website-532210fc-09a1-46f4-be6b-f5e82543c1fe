@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-532210fc.zappy5.app
+https://example.com
 גלו שמן זית בוטיק ישראלי כתית מעולה, ישר מהמטע אל שולחנכם. שמן זית אורגני בעל ארומה עשירה ומרקם קטיפתי שמשדרג כל מנה. הצטרפו למסע של טעם אותנטי עכשיו!
 
 ### מקור ואיכות
-https://-532210fc.zappy5.app/provenance-quality
+https://example.com/provenance-quality
 צללו לעומק המסורת והקפדנות מאחורי שמן הזית הבוטיק שלנו. למדו על תהליך הכבישה הקרה, הסטנדרטים המחמירים, והטרואר הישראלי הייחודי שמבטיח איכות שאין שניה לה.
 
 ### אודות המטע
-https://-532210fc.zappy5.app/about
+https://example.com/about
 הכירו את המטע המשפחתי, האנשים והחזון שמאחורי כל בקבוק. סיפור של אהבה לאדמה, מחויבות לחקלאות בת-קיימא, והגשמת חלום ישראלי בזית. בואו להתאהב בשורשים שלנו.
 
 ### צור קשר
-https://-532210fc.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה, הזמנה מיוחדת, או סתם בא לכם להגיד שלום? אנחנו כאן בשבילכם. צרו קשר עם משפחת המטע וקבלו מענה אישי וחם. נשמח לשמוע מכם ולגדול יחד.
 
 ### Products
-https://-532210fc.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אדמה שמן זית בוטיק
 
 ### Cart
-https://-532210fc.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-532210fc.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-532210fc.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-532210fc.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-532210fc.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-532210fc.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אדמה שמן זית בוטיק
 
 ### Category
-https://-532210fc.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אדמה שמן זית בוטיק
 
 ### תודה על פנייתך
-https://-532210fc.zappy5.app/contact-thank-you
+https://example.com/contact-thank-you
 אדמה שמן זית בוטיק - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-532210fc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-532210fc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-532210fc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Food & Agriculture E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-532210fc.zappy5.app/sitemap.xml
-- Robots: https://-532210fc.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-532210fc.zappy5.app/llms-full.txt
-- Products (JSON): https://-532210fc.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-532210fc.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
