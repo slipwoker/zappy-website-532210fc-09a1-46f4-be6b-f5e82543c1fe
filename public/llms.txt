@@ -1,0 +1,104 @@
+# אדמה שמן זית בוטיק — Generative Engine Optimization Map
+
+> A premium Israeli olive oil brand rooted in local agricultural production, offering high-quality extra virgin olive oil and complementary products. The brand emphasizes authenticity, local craftsmanship, and the rich tradition of Israeli olive farming. The identity carries a natural, artisanal vibe with a strong connection to the land and Israeli heritage.
+
+---
+
+## Pages
+
+### בית
+https://-532210fc.zappy5.app
+גלו שמן זית בוטיק ישראלי כתית מעולה, ישר מהמטע אל שולחנכם. שמן זית אורגני בעל ארומה עשירה ומרקם קטיפתי שמשדרג כל מנה. הצטרפו למסע של טעם אותנטי עכשיו!
+
+### מקור ואיכות
+https://-532210fc.zappy5.app/provenance-quality
+צללו לעומק המסורת והקפדנות מאחורי שמן הזית הבוטיק שלנו. למדו על תהליך הכבישה הקרה, הסטנדרטים המחמירים, והטרואר הישראלי הייחודי שמבטיח איכות שאין שניה לה.
+
+### אודות המטע
+https://-532210fc.zappy5.app/about
+הכירו את המטע המשפחתי, האנשים והחזון שמאחורי כל בקבוק. סיפור של אהבה לאדמה, מחויבות לחקלאות בת-קיימא, והגשמת חלום ישראלי בזית. בואו להתאהב בשורשים שלנו.
+
+### צור קשר
+https://-532210fc.zappy5.app/contact
+יש לכם שאלה, הזמנה מיוחדת, או סתם בא לכם להגיד שלום? אנחנו כאן בשבילכם. צרו קשר עם משפחת המטע וקבלו מענה אישי וחם. נשמח לשמוע מכם ולגדול יחד.
+
+### Products
+https://-532210fc.zappy5.app/products
+המוצרים שלנו - אדמה שמן זית בוטיק
+
+### Cart
+https://-532210fc.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-532210fc.zappy5.app/checkout
+תשלום
+
+### Login
+https://-532210fc.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-532210fc.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-532210fc.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-532210fc.zappy5.app/product/:slug
+פרטי המוצר - אדמה שמן זית בוטיק
+
+### Category
+https://-532210fc.zappy5.app/category/:slug
+מוצרים - אדמה שמן זית בוטיק
+
+### תודה על פנייתך
+https://-532210fc.zappy5.app/contact-thank-you
+אדמה שמן זית בוטיק - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-532210fc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-532210fc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-532210fc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אדמה שמן זית בוטיק
+A premium Israeli olive oil brand rooted in local agricultural production, offering high-quality extra virgin olive oil and complementary products. The brand emphasizes authenticity, local craftsmanship, and the rich tradition of Israeli olive farming. The identity carries a natural, artisanal vibe with a strong connection to the land and Israeli heritage.
+
+## Target Audience
+- חובבי אוכל בריא
+- חובבי בישול ותבשילים
+- מחפשי מוצרים אורגניים
+
+## Industry
+Food & Agriculture E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-532210fc.zappy5.app/sitemap.xml
+- Robots: https://-532210fc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-532210fc.zappy5.app/llms-full.txt
+- Products (JSON): https://-532210fc.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-532210fc.zappy5.app/product-feed.xml
